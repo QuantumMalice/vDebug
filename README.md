@@ -1,5 +1,5 @@
-# qb-vDebug
-![qb-vDebug](https://cdn.discordapp.com/attachments/1008397590515171379/1008637706504515666/vDebug_Update.png)
+# vDebug
+![vDebug](https://cdn.discordapp.com/attachments/1008397590515171379/1008637706504515666/vDebug_Update.png)
 
 # Installation
 * Download source files from github
